@@ -1,7 +1,7 @@
 # hydro-pv-bess-energy-management-system
 Python-based simulation of a hybrid hydro-PV-battery energy management system with SCADA-inspired monitoring, renewable dispatch analysis and carbon-footprint evaluation.
 
-# ⚡ Jabalpur Hydro-Solar-Battery Hybrid Energy Simulation
+# ⚡ Jabalpur Hydro-Solar-Battery Hybrid Energy Simulation as a prototype example
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)
